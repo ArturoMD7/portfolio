@@ -40,11 +40,11 @@ const Introduction = () => {
                     </h1>
 
                     <p className="mx-auto  mb-2 text-base md:text-xl md:mx-0 md:mb-5">
-                        Como estudiante de Ingeniería en Sistemas Computacionales, estoy comprometido con el aprendizaje continuo, la innovación tecnológica y la aplicación práctica del conocimiento para resolver problemas del mundo real.
+                        Como estudiante de Ingeniería en Sistemas Computacionales, estoy comprometido con el aprendizaje contínuo, la innovación tecnológica y la aplicación práctica del conocimiento para resolver problemas del mundo real.
                     </p>
 
                     <div className="flex flex-wrap items-center justify-center gap-3 md:justify-start md:gap-8">
-                        <a href="/projects" className="px-3 py-2 transition-all border-2 cursor-pointer text-sm md:text-md w-fit rounded-xl hover:shadow-xl hover:shadow-white/50">
+                        <a href="/portfolio" className="px-3 py-2 transition-all border-2 cursor-pointer text-sm md:text-md w-fit rounded-xl hover:shadow-xl hover:shadow-white/50">
                             Ver proyectos
                         </a>
                         <a href="/contact"
